@@ -1,0 +1,27 @@
+C:\Users\Martin\source\repos\ArchiviazioneTrilogis\ArchiviazioneTrilogis\bin\Debug\ArchiviazioneTrilogis.exe.config
+C:\Users\Martin\source\repos\ArchiviazioneTrilogis\ArchiviazioneTrilogis\bin\Debug\ArchiviazioneTrilogis.exe
+C:\Users\Martin\source\repos\ArchiviazioneTrilogis\ArchiviazioneTrilogis\bin\Debug\ArchiviazioneTrilogis.pdb
+C:\Users\Martin\source\repos\ArchiviazioneTrilogis\ArchiviazioneTrilogis\bin\Debug\FirebirdSql.Data.FirebirdClientOLD.dll
+C:\Users\Martin\source\repos\ArchiviazioneTrilogis\ArchiviazioneTrilogis\bin\Debug\FirebirdSql.Data.FirebirdClientOLD.pdb
+C:\Proyectos VB.Net\ArchiviazioneTrilogis\ArchiviazioneTrilogis.exe.config
+C:\Proyectos VB.Net\ArchiviazioneTrilogis\ArchiviazioneTrilogis.exe
+C:\Proyectos VB.Net\ArchiviazioneTrilogis\ArchiviazioneTrilogis.pdb
+C:\Users\Martin\source\repos\ArchiviazioneTrilogis\ArchiviazioneTrilogis\obj\Debug\ArchiviazioneTrilogis.Form1.resources
+C:\Users\Martin\source\repos\ArchiviazioneTrilogis\ArchiviazioneTrilogis\obj\Debug\ArchiviazioneTrilogis.Properties.Resources.resources
+C:\Users\Martin\source\repos\ArchiviazioneTrilogis\ArchiviazioneTrilogis\obj\Debug\ArchiviazioneTrilogis.csproj.GenerateResource.cache
+C:\Users\Martin\source\repos\ArchiviazioneTrilogis\ArchiviazioneTrilogis\obj\Debug\ArchiviazioneTrilogis.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\ArchiviazioneTrilogis\ArchiviazioneTrilogis\obj\Debug\ArchiviazioneTrilogis.csproj.CopyComplete
+C:\Users\Martin\source\repos\ArchiviazioneTrilogis\ArchiviazioneTrilogis\obj\Debug\ArchiviazioneTrilogis.exe
+C:\Users\Martin\source\repos\ArchiviazioneTrilogis\ArchiviazioneTrilogis\obj\Debug\ArchiviazioneTrilogis.pdb
+C:\Users\Martin\source\repos\ArchiviazioneTrilogis\ArchiviazioneTrilogis\obj\Debug\ArchiviazioneTrilogis.csprojAssemblyReference.cache
+\\MARTIN\c\Proyectos VB.Net\ArchiviazioneTrilogis\Output\ArchiviazioneTrilogis.exe.config
+\\MARTIN\c\Proyectos VB.Net\ArchiviazioneTrilogis\Output\ArchiviazioneTrilogis.exe
+\\MARTIN\c\Proyectos VB.Net\ArchiviazioneTrilogis\Output\ArchiviazioneTrilogis.pdb
+C:\Users\Martin\Source\Repos\LeanLarroza\ArchiviazioneTrilogis\ArchiviazioneTrilogis\obj\Debug\ArchiviazioneTrilogis.csprojAssemblyReference.cache
+C:\Users\Martin\Source\Repos\LeanLarroza\ArchiviazioneTrilogis\ArchiviazioneTrilogis\obj\Debug\ArchiviazioneTrilogis.Form1.resources
+C:\Users\Martin\Source\Repos\LeanLarroza\ArchiviazioneTrilogis\ArchiviazioneTrilogis\obj\Debug\ArchiviazioneTrilogis.Properties.Resources.resources
+C:\Users\Martin\Source\Repos\LeanLarroza\ArchiviazioneTrilogis\ArchiviazioneTrilogis\obj\Debug\ArchiviazioneTrilogis.csproj.GenerateResource.cache
+C:\Users\Martin\Source\Repos\LeanLarroza\ArchiviazioneTrilogis\ArchiviazioneTrilogis\obj\Debug\ArchiviazioneTrilogis.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Source\Repos\LeanLarroza\ArchiviazioneTrilogis\ArchiviazioneTrilogis\obj\Debug\ArchiviazioneTrilogis.csproj.CopyComplete
+C:\Users\Martin\Source\Repos\LeanLarroza\ArchiviazioneTrilogis\ArchiviazioneTrilogis\obj\Debug\ArchiviazioneTrilogis.exe
+C:\Users\Martin\Source\Repos\LeanLarroza\ArchiviazioneTrilogis\ArchiviazioneTrilogis\obj\Debug\ArchiviazioneTrilogis.pdb
